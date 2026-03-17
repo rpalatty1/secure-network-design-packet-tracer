@@ -4,7 +4,7 @@
 
 ## Overview
 Designed and proposed a secure, scalable network architecture for a retail branch, including subnetting, VLAN segmentation, and layered cybersecurity controls.
-Demonstrated core networking and security concepts used in SOC, IT infrastructure, and OT environments.
+Demonstrated core networking and security concepts.
 
 ## Tools & Technologies
 - Cisco Packet Tracer  
