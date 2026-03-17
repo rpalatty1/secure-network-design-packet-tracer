@@ -32,7 +32,12 @@ Demonstrated core networking and security concepts.
 - Designed IP addressing table for multiple departments  
 - Analysed flat vs hierarchical network topologies  
 - Identified network issues using ping and traceroute  
-- Proposed improvements to authentication (MFA + biometrics)  
+- Proposed improvements to authentication (MFA + biometrics)
+
+  ## Skills Demonstrated
+- Network segmentation and VLAN design
+- Firewall and DMZ implementation
+- Threat analysis and preventative controls 
 
 ## Deliverables
 - [Network Design Report](network-design-report.pdf)  
