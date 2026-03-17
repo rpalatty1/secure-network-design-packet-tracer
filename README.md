@@ -34,14 +34,7 @@ Demonstrated core networking and security concepts used in SOC, IT infrastructur
 - Identified network issues using ping and traceroute  
 - Proposed improvements to authentication (MFA + biometrics)  
 
-## Skills
-- Network design & architecture  
-- Cybersecurity fundamentals & threat mitigation  
-- Subnetting and IP planning  
-- Risk analysis and secure system design  
-- Technical documentation & justification  
-
 ## Deliverables
 - [Network Design Report](network-design-report.pdf)  
-- [Packet Tracer simulation file] (Packet Tracer File/Company Branch Network.pkt)  
+- [Packet Tracer simulation file] (Packet Tracer File.zip)  
 
