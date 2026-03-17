@@ -36,5 +36,5 @@ Demonstrated core networking and security concepts used in SOC, IT infrastructur
 
 ## Deliverables
 - [Network Design Report](network-design-report.pdf)  
-- [Packet Tracer simulation file] (Packet Tracer file.zip)  
+- [Packet Tracer simulation file](Packet Tracer file.zip)  
 
