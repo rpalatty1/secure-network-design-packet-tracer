@@ -1,4 +1,4 @@
-# Secure Network Design for Retail Environment (Packet Tracer)
+# Secure Network Design (Packet Tracer)
 
 **Module:** COMP1002 – Cyber Security & Networks  
 
