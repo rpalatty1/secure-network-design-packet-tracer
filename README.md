@@ -1,10 +1,10 @@
-# Secure Network Design for Retail Environment (Packet Tracer)
+# Secure Network Design (Packet Tracer)
 
 **Module:** COMP1002 – Cyber Security & Networks  
 
 ## Overview
 Designed and proposed a secure, scalable network architecture for a retail branch, including subnetting, VLAN segmentation, and layered cybersecurity controls.
-Demonstrated core networking and security concepts used in SOC, IT infrastructure, and OT environments.
+Demonstrated core networking and security concepts.
 
 ## Tools & Technologies
 - Cisco Packet Tracer  
@@ -32,16 +32,14 @@ Demonstrated core networking and security concepts used in SOC, IT infrastructur
 - Designed IP addressing table for multiple departments  
 - Analysed flat vs hierarchical network topologies  
 - Identified network issues using ping and traceroute  
-- Proposed improvements to authentication (MFA + biometrics)  
+- Proposed improvements to authentication (MFA + biometrics)
 
-## Skills
-- Network design & architecture  
-- Cybersecurity fundamentals & threat mitigation  
-- Subnetting and IP planning  
-- Risk analysis and secure system design  
-- Technical documentation & justification  
+  ## Skills Demonstrated
+- Network segmentation and VLAN design
+- Firewall and DMZ implementation
+- Threat analysis and preventative controls 
 
 ## Deliverables
 - [Network Design Report](network-design-report.pdf)  
-- [Packet Tracer simulation file] (Packet Tracer File/Company Branch Network.pkt)  
+- [Packet Tracer simulation file](Packet Tracer file.ZIP)  
 
